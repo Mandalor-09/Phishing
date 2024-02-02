@@ -1,0 +1,352 @@
+[ 2024-01-26 22:50:22,057 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.021999 seconds
+[ 2024-01-26 22:50:22,057 ] 900 hyperopt.tpe - INFO - TPE using 0 trials
+[ 2024-01-26 22:50:22,846 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 22:50:22,846 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 22:52:06,165 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.044999 seconds
+[ 2024-01-26 22:52:06,166 ] 900 hyperopt.tpe - INFO - TPE using 1/1 trials with best loss 0.060207
+[ 2024-01-26 22:52:06,953 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 22:52:06,970 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 22:52:36,719 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.060002 seconds
+[ 2024-01-26 22:52:36,719 ] 900 hyperopt.tpe - INFO - TPE using 2/2 trials with best loss 0.060207
+[ 2024-01-26 22:52:37,981 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 22:52:37,981 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 22:53:25,329 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.051789 seconds
+[ 2024-01-26 22:53:25,329 ] 900 hyperopt.tpe - INFO - TPE using 3/3 trials with best loss 0.060207
+[ 2024-01-26 22:53:26,315 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 22:53:26,315 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 22:54:08,542 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.056003 seconds
+[ 2024-01-26 22:54:08,543 ] 900 hyperopt.tpe - INFO - TPE using 4/4 trials with best loss 0.060207
+[ 2024-01-26 22:54:09,572 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 22:54:09,572 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 22:54:53,358 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.053591 seconds
+[ 2024-01-26 22:54:53,358 ] 900 hyperopt.tpe - INFO - TPE using 5/5 trials with best loss 0.060207
+[ 2024-01-26 22:54:54,347 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 22:54:54,347 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 22:56:01,952 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.090054 seconds
+[ 2024-01-26 22:56:01,953 ] 900 hyperopt.tpe - INFO - TPE using 6/6 trials with best loss 0.060207
+[ 2024-01-26 22:56:04,214 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 22:56:04,214 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 22:57:34,034 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.073702 seconds
+[ 2024-01-26 22:57:34,035 ] 900 hyperopt.tpe - INFO - TPE using 7/7 trials with best loss 0.060207
+[ 2024-01-26 22:57:35,576 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 22:57:35,576 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 22:58:37,145 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.078171 seconds
+[ 2024-01-26 22:58:37,145 ] 900 hyperopt.tpe - INFO - TPE using 8/8 trials with best loss 0.060207
+[ 2024-01-26 22:58:38,359 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 22:58:38,359 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 22:59:11,372 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.062174 seconds
+[ 2024-01-26 22:59:11,372 ] 900 hyperopt.tpe - INFO - TPE using 9/9 trials with best loss 0.060207
+[ 2024-01-26 22:59:12,507 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 22:59:12,507 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:01:00,000 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.064137 seconds
+[ 2024-01-26 23:01:00,000 ] 900 hyperopt.tpe - INFO - TPE using 10/10 trials with best loss 0.058388
+[ 2024-01-26 23:01:01,190 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:01:01,190 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:01:30,984 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.049614 seconds
+[ 2024-01-26 23:01:30,985 ] 900 hyperopt.tpe - INFO - TPE using 11/11 trials with best loss 0.058388
+[ 2024-01-26 23:01:31,757 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:01:31,757 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:01:58,176 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.108935 seconds
+[ 2024-01-26 23:01:58,176 ] 900 hyperopt.tpe - INFO - TPE using 12/12 trials with best loss 0.058388
+[ 2024-01-26 23:01:58,968 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:01:58,968 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:02:27,407 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.050012 seconds
+[ 2024-01-26 23:02:27,407 ] 900 hyperopt.tpe - INFO - TPE using 13/13 trials with best loss 0.058388
+[ 2024-01-26 23:02:28,257 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:02:28,257 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:03:05,297 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.053132 seconds
+[ 2024-01-26 23:03:05,298 ] 900 hyperopt.tpe - INFO - TPE using 14/14 trials with best loss 0.058388
+[ 2024-01-26 23:03:06,039 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:03:06,039 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:03:42,141 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.055002 seconds
+[ 2024-01-26 23:03:42,142 ] 900 hyperopt.tpe - INFO - TPE using 15/15 trials with best loss 0.058388
+[ 2024-01-26 23:03:42,921 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:03:42,921 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:04:33,046 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.081131 seconds
+[ 2024-01-26 23:04:33,046 ] 900 hyperopt.tpe - INFO - TPE using 16/16 trials with best loss 0.058388
+[ 2024-01-26 23:04:34,637 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:04:34,637 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:05:17,502 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.057999 seconds
+[ 2024-01-26 23:05:17,502 ] 900 hyperopt.tpe - INFO - TPE using 17/17 trials with best loss 0.058388
+[ 2024-01-26 23:05:18,288 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:05:18,288 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:06:09,827 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.057252 seconds
+[ 2024-01-26 23:06:09,828 ] 900 hyperopt.tpe - INFO - TPE using 18/18 trials with best loss 0.058388
+[ 2024-01-26 23:06:10,595 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:06:10,595 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:06:47,366 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.104133 seconds
+[ 2024-01-26 23:06:47,367 ] 900 hyperopt.tpe - INFO - TPE using 19/19 trials with best loss 0.058388
+[ 2024-01-26 23:06:48,125 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:06:48,125 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:07:18,415 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.051001 seconds
+[ 2024-01-26 23:07:18,416 ] 900 hyperopt.tpe - INFO - TPE using 20/20 trials with best loss 0.058388
+[ 2024-01-26 23:07:19,260 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:07:19,260 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:08:00,645 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.060002 seconds
+[ 2024-01-26 23:08:00,645 ] 900 hyperopt.tpe - INFO - TPE using 21/21 trials with best loss 0.058388
+[ 2024-01-26 23:08:01,741 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:08:01,741 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:08:46,137 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.066913 seconds
+[ 2024-01-26 23:08:46,138 ] 900 hyperopt.tpe - INFO - TPE using 22/22 trials with best loss 0.058388
+[ 2024-01-26 23:08:46,950 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:08:46,950 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:10:02,655 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.069191 seconds
+[ 2024-01-26 23:10:02,655 ] 900 hyperopt.tpe - INFO - TPE using 23/23 trials with best loss 0.057888
+[ 2024-01-26 23:10:03,430 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:10:03,430 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:11:20,866 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.063998 seconds
+[ 2024-01-26 23:11:20,866 ] 900 hyperopt.tpe - INFO - TPE using 24/24 trials with best loss 0.057888
+[ 2024-01-26 23:11:21,638 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:11:21,638 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:12:49,453 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.067947 seconds
+[ 2024-01-26 23:12:49,453 ] 900 hyperopt.tpe - INFO - TPE using 25/25 trials with best loss 0.057888
+[ 2024-01-26 23:12:50,449 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:12:50,449 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:14:24,315 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.103186 seconds
+[ 2024-01-26 23:14:24,316 ] 900 hyperopt.tpe - INFO - TPE using 26/26 trials with best loss 0.057888
+[ 2024-01-26 23:14:25,050 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:14:25,050 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:14:52,650 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.065005 seconds
+[ 2024-01-26 23:14:52,650 ] 900 hyperopt.tpe - INFO - TPE using 27/27 trials with best loss 0.057888
+[ 2024-01-26 23:14:53,454 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:14:53,454 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:16:37,615 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.102695 seconds
+[ 2024-01-26 23:16:37,616 ] 900 hyperopt.tpe - INFO - TPE using 28/28 trials with best loss 0.057888
+[ 2024-01-26 23:16:39,998 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:16:39,998 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:20:03,388 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.059002 seconds
+[ 2024-01-26 23:20:03,389 ] 900 hyperopt.tpe - INFO - TPE using 29/29 trials with best loss 0.057888
+[ 2024-01-26 23:20:04,237 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:20:04,237 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:21:14,935 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.060998 seconds
+[ 2024-01-26 23:21:14,936 ] 900 hyperopt.tpe - INFO - TPE using 30/30 trials with best loss 0.057888
+[ 2024-01-26 23:21:15,710 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:21:15,710 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:22:04,329 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.049000 seconds
+[ 2024-01-26 23:22:04,330 ] 900 hyperopt.tpe - INFO - TPE using 31/31 trials with best loss 0.057888
+[ 2024-01-26 23:22:05,095 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:22:05,095 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:22:39,969 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.049505 seconds
+[ 2024-01-26 23:22:39,970 ] 900 hyperopt.tpe - INFO - TPE using 32/32 trials with best loss 0.057888
+[ 2024-01-26 23:22:40,763 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:22:40,763 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:24:09,356 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.094166 seconds
+[ 2024-01-26 23:24:09,357 ] 900 hyperopt.tpe - INFO - TPE using 33/33 trials with best loss 0.057888
+[ 2024-01-26 23:24:10,109 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:24:10,109 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:25:09,021 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.065205 seconds
+[ 2024-01-26 23:25:09,021 ] 900 hyperopt.tpe - INFO - TPE using 34/34 trials with best loss 0.057888
+[ 2024-01-26 23:25:09,796 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:25:09,796 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:26:18,143 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.059998 seconds
+[ 2024-01-26 23:26:18,144 ] 900 hyperopt.tpe - INFO - TPE using 35/35 trials with best loss 0.057888
+[ 2024-01-26 23:26:18,918 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:26:18,918 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:27:08,060 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.049001 seconds
+[ 2024-01-26 23:27:08,061 ] 900 hyperopt.tpe - INFO - TPE using 36/36 trials with best loss 0.057888
+[ 2024-01-26 23:27:08,856 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:27:08,857 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:27:40,945 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.050002 seconds
+[ 2024-01-26 23:27:40,946 ] 900 hyperopt.tpe - INFO - TPE using 37/37 trials with best loss 0.057888
+[ 2024-01-26 23:27:41,722 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:27:41,722 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:28:34,801 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.052999 seconds
+[ 2024-01-26 23:28:34,802 ] 900 hyperopt.tpe - INFO - TPE using 38/38 trials with best loss 0.057888
+[ 2024-01-26 23:28:35,586 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:28:35,586 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:29:14,376 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.107774 seconds
+[ 2024-01-26 23:29:14,376 ] 900 hyperopt.tpe - INFO - TPE using 39/39 trials with best loss 0.057888
+[ 2024-01-26 23:29:15,131 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:29:15,132 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:29:43,662 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.058911 seconds
+[ 2024-01-26 23:29:43,663 ] 900 hyperopt.tpe - INFO - TPE using 40/40 trials with best loss 0.057888
+[ 2024-01-26 23:29:44,444 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:29:44,444 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:30:20,081 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.047000 seconds
+[ 2024-01-26 23:30:20,082 ] 900 hyperopt.tpe - INFO - TPE using 41/41 trials with best loss 0.057888
+[ 2024-01-26 23:30:20,845 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:30:20,846 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:31:21,661 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.054998 seconds
+[ 2024-01-26 23:31:21,662 ] 900 hyperopt.tpe - INFO - TPE using 42/42 trials with best loss 0.057888
+[ 2024-01-26 23:31:22,768 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:31:22,768 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:31:58,257 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.051000 seconds
+[ 2024-01-26 23:31:58,258 ] 900 hyperopt.tpe - INFO - TPE using 43/43 trials with best loss 0.057888
+[ 2024-01-26 23:31:59,036 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:31:59,036 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:32:53,235 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.052998 seconds
+[ 2024-01-26 23:32:53,235 ] 900 hyperopt.tpe - INFO - TPE using 44/44 trials with best loss 0.057888
+[ 2024-01-26 23:32:53,998 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:32:53,998 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:34:11,409 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.062009 seconds
+[ 2024-01-26 23:34:11,409 ] 900 hyperopt.tpe - INFO - TPE using 45/45 trials with best loss 0.057888
+[ 2024-01-26 23:34:12,178 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:34:12,178 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:35:06,509 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.133181 seconds
+[ 2024-01-26 23:35:06,510 ] 900 hyperopt.tpe - INFO - TPE using 46/46 trials with best loss 0.057888
+[ 2024-01-26 23:35:07,365 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:35:07,365 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:36:05,760 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.057000 seconds
+[ 2024-01-26 23:36:05,760 ] 900 hyperopt.tpe - INFO - TPE using 47/47 trials with best loss 0.057888
+[ 2024-01-26 23:36:06,558 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:36:06,558 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:36:51,212 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.058242 seconds
+[ 2024-01-26 23:36:51,213 ] 900 hyperopt.tpe - INFO - TPE using 48/48 trials with best loss 0.057888
+[ 2024-01-26 23:36:51,984 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:36:51,984 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:37:29,346 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.052001 seconds
+[ 2024-01-26 23:37:29,347 ] 900 hyperopt.tpe - INFO - TPE using 49/49 trials with best loss 0.057888
+[ 2024-01-26 23:37:30,118 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:37:30,118 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:38:06,198 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.055000 seconds
+[ 2024-01-26 23:38:06,198 ] 900 hyperopt.tpe - INFO - TPE using 50/50 trials with best loss 0.057888
+[ 2024-01-26 23:38:07,052 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:38:07,053 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:38:41,866 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.048997 seconds
+[ 2024-01-26 23:38:41,867 ] 900 hyperopt.tpe - INFO - TPE using 51/51 trials with best loss 0.057888
+[ 2024-01-26 23:38:42,713 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:38:42,713 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:39:48,535 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.060003 seconds
+[ 2024-01-26 23:39:48,535 ] 900 hyperopt.tpe - INFO - TPE using 52/52 trials with best loss 0.057888
+[ 2024-01-26 23:39:49,291 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:39:49,292 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:41:06,793 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.102413 seconds
+[ 2024-01-26 23:41:06,794 ] 900 hyperopt.tpe - INFO - TPE using 53/53 trials with best loss 0.057888
+[ 2024-01-26 23:41:07,554 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:41:07,554 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:41:41,388 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.051189 seconds
+[ 2024-01-26 23:41:41,389 ] 900 hyperopt.tpe - INFO - TPE using 54/54 trials with best loss 0.057888
+[ 2024-01-26 23:41:42,157 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:41:42,158 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:42:50,508 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.085338 seconds
+[ 2024-01-26 23:42:50,509 ] 900 hyperopt.tpe - INFO - TPE using 55/55 trials with best loss 0.057888
+[ 2024-01-26 23:42:52,084 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:42:52,085 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:44:56,094 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.077992 seconds
+[ 2024-01-26 23:44:56,094 ] 900 hyperopt.tpe - INFO - TPE using 56/56 trials with best loss 0.057888
+[ 2024-01-26 23:44:57,701 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:44:57,701 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:45:54,880 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.057278 seconds
+[ 2024-01-26 23:45:54,880 ] 900 hyperopt.tpe - INFO - TPE using 57/57 trials with best loss 0.057888
+[ 2024-01-26 23:45:55,936 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:45:55,936 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:46:56,836 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.062999 seconds
+[ 2024-01-26 23:46:56,836 ] 900 hyperopt.tpe - INFO - TPE using 58/58 trials with best loss 0.057888
+[ 2024-01-26 23:46:57,830 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:46:57,830 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:48:02,704 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.094546 seconds
+[ 2024-01-26 23:48:02,705 ] 900 hyperopt.tpe - INFO - TPE using 59/59 trials with best loss 0.057888
+[ 2024-01-26 23:48:04,453 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:48:04,453 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:49:24,950 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.160771 seconds
+[ 2024-01-26 23:49:24,951 ] 900 hyperopt.tpe - INFO - TPE using 60/60 trials with best loss 0.057888
+[ 2024-01-26 23:49:26,653 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:49:26,654 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:50:34,928 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.084951 seconds
+[ 2024-01-26 23:50:34,929 ] 900 hyperopt.tpe - INFO - TPE using 61/61 trials with best loss 0.057888
+[ 2024-01-26 23:50:36,564 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:50:36,564 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:51:26,507 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.071018 seconds
+[ 2024-01-26 23:51:26,507 ] 900 hyperopt.tpe - INFO - TPE using 62/62 trials with best loss 0.057888
+[ 2024-01-26 23:51:28,363 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:51:28,363 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:53:41,447 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.098808 seconds
+[ 2024-01-26 23:53:41,448 ] 900 hyperopt.tpe - INFO - TPE using 63/63 trials with best loss 0.057888
+[ 2024-01-26 23:53:43,142 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:53:43,142 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:54:42,730 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.083386 seconds
+[ 2024-01-26 23:54:42,731 ] 900 hyperopt.tpe - INFO - TPE using 64/64 trials with best loss 0.057888
+[ 2024-01-26 23:54:44,325 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:54:44,325 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:55:41,347 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.050064 seconds
+[ 2024-01-26 23:55:41,347 ] 900 hyperopt.tpe - INFO - TPE using 65/65 trials with best loss 0.057888
+[ 2024-01-26 23:55:42,192 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:55:42,192 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 23:58:25,338 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.069015 seconds
+[ 2024-01-26 23:58:25,339 ] 900 hyperopt.tpe - INFO - TPE using 66/66 trials with best loss 0.057888
+[ 2024-01-26 23:58:26,417 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 23:58:26,417 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-27 00:00:05,787 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.062001 seconds
+[ 2024-01-27 00:00:05,788 ] 900 hyperopt.tpe - INFO - TPE using 67/67 trials with best loss 0.057888
+[ 2024-01-27 00:00:06,534 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-27 00:00:06,534 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-27 00:02:53,529 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.061002 seconds
+[ 2024-01-27 00:02:53,529 ] 900 hyperopt.tpe - INFO - TPE using 68/68 trials with best loss 0.057888
+[ 2024-01-27 00:02:54,319 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-27 00:02:54,319 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-27 00:05:31,259 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.065002 seconds
+[ 2024-01-27 00:05:31,260 ] 900 hyperopt.tpe - INFO - TPE using 69/69 trials with best loss 0.057888
+[ 2024-01-27 00:05:32,702 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-27 00:05:32,702 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-27 00:07:57,847 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.058000 seconds
+[ 2024-01-27 00:07:57,848 ] 900 hyperopt.tpe - INFO - TPE using 70/70 trials with best loss 0.057888
+[ 2024-01-27 00:07:58,597 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-27 00:07:58,597 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-27 00:09:12,714 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.062996 seconds
+[ 2024-01-27 00:09:12,715 ] 900 hyperopt.tpe - INFO - TPE using 71/71 trials with best loss 0.057888
+[ 2024-01-27 00:09:13,528 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-27 00:09:13,539 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-27 00:10:03,205 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.058203 seconds
+[ 2024-01-27 00:10:03,206 ] 900 hyperopt.tpe - INFO - TPE using 72/72 trials with best loss 0.057888
+[ 2024-01-27 00:10:03,950 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-27 00:10:03,950 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-27 00:10:41,317 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.107000 seconds
+[ 2024-01-27 00:10:41,317 ] 900 hyperopt.tpe - INFO - TPE using 73/73 trials with best loss 0.057888
+[ 2024-01-27 00:10:42,065 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-27 00:10:42,065 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-27 00:12:21,049 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.057002 seconds
+[ 2024-01-27 00:12:21,050 ] 900 hyperopt.tpe - INFO - TPE using 74/74 trials with best loss 0.057888
+[ 2024-01-27 00:12:21,789 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-27 00:12:21,789 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-27 00:13:49,511 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.060003 seconds
+[ 2024-01-27 00:13:49,511 ] 900 hyperopt.tpe - INFO - TPE using 75/75 trials with best loss 0.057888
+[ 2024-01-27 00:13:50,481 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-27 00:13:50,481 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-27 00:14:49,670 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.055999 seconds
+[ 2024-01-27 00:14:49,670 ] 900 hyperopt.tpe - INFO - TPE using 76/76 trials with best loss 0.057888
+[ 2024-01-27 00:14:50,412 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-27 00:14:50,412 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-27 00:15:19,026 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.050005 seconds
+[ 2024-01-27 00:15:19,026 ] 900 hyperopt.tpe - INFO - TPE using 77/77 trials with best loss 0.057888
+[ 2024-01-27 00:15:19,756 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-27 00:15:19,756 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-27 00:15:51,011 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.053014 seconds
+[ 2024-01-27 00:15:51,012 ] 900 hyperopt.tpe - INFO - TPE using 78/78 trials with best loss 0.057888
+[ 2024-01-27 00:15:51,740 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-27 00:15:51,740 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-27 00:16:29,586 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.050161 seconds
+[ 2024-01-27 00:16:29,587 ] 900 hyperopt.tpe - INFO - TPE using 79/79 trials with best loss 0.057888
+[ 2024-01-27 00:16:30,321 ] 18 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-27 00:16:30,322 ] 19 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-27 00:17:10,910 ] 91 root - INFO - Best Hyperparameters: {'colsample_bytree': 0.9921951511043376, 'gamma': 0.3504991573006799, 'k_neighbour': 8, 'learning_rate': 0.08196957639473947, 'max_depth': 10, 'min_child_weight': 6.0, 'n_components': 35, 'n_estimators': 362, 'subsample': 0.8235643431046848}
+[ 2024-01-27 00:17:11,670 ] 24 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-27 00:17:11,671 ] 25 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-27 00:17:31,158 ] 36 root - INFO - Smoting Completed Succesfully The Value counts are phishing
+1    58000
+0    58000
+Name: count, dtype: int64
+[ 2024-01-27 00:17:31,992 ] 40 root - INFO - Clean Data Saved to artifacts/cleaned_data/final_data.csv
+[ 2024-01-27 00:17:32,718 ] 45 root - INFO - Training Dataset Saved at artifacts/cleaned_data/train_data.csv
+[ 2024-01-27 00:17:32,934 ] 49 root - INFO - Testing Dataset Saved at artifacts/cleaned_data/test_data.csv
+[ 2024-01-27 00:17:32,934 ] 50 root - INFO - Completed Data Ingestion Method
+[ 2024-01-27 00:17:32,942 ] 25 root - INFO - Initiating Data Preprocessing
+[ 2024-01-27 00:17:33,373 ] 34 root - INFO - PCA Process Completed
+[ 2024-01-27 00:17:33,417 ] 41 root - INFO - Standardization Process Completed and Saved at artifacts/components/standard.joblib
+[ 2024-01-27 00:17:44,106 ] 16 root - INFO - Trainind Data
+[ 2024-01-27 00:17:44,106 ] 17 root - INFO - Accuracy of XGBClassifier using HyperOPT: 0.9628965517241379
+[ 2024-01-27 00:17:44,106 ] 18 root - INFO - Precision: 0.9717544432523207
+[ 2024-01-27 00:17:44,106 ] 19 root - INFO - Recall: 0.9538232600732601
+[ 2024-01-27 00:17:44,106 ] 20 root - INFO - F2 Score: 0.9573563609290697
+[ 2024-01-27 00:17:44,179 ] 25 root - INFO - Test Data Loaded Successfully
+[ 2024-01-27 00:17:44,181 ] 29 root - INFO - PCA Model loaded Successfully
+[ 2024-01-27 00:17:44,197 ] 33 root - INFO - Standardization Model loaded Successfully
+[ 2024-01-27 00:17:44,424 ] 42 root - INFO - Testing Data
+[ 2024-01-27 00:17:44,424 ] 43 root - INFO - Accuracy of XGBClassifier using HyperOPT: 0.9395517241379311
+[ 2024-01-27 00:17:44,424 ] 44 root - INFO - Precision: 0.9409783142676679
+[ 2024-01-27 00:17:44,424 ] 45 root - INFO - Recall: 0.9363128491620112
+[ 2024-01-27 00:17:44,424 ] 46 root - INFO - F2 Score: 0.9372422374141957
+[ 2024-01-27 00:17:45,773 ] 68 root - INFO - Validate Dataset
+[ 2024-01-27 00:17:45,774 ] 69 root - INFO - Accuracy: 0.8183817887287919
+[ 2024-01-27 00:17:45,774 ] 70 root - INFO - Precision: 0.764861714527922
+[ 2024-01-27 00:17:45,774 ] 71 root - INFO - Recall: 0.9420824224230757
+[ 2024-01-27 00:17:45,774 ] 72 root - INFO - F2 Score: 0.900359245584273

@@ -1,0 +1,30 @@
+[ 2024-01-24 01:14:05,413 ] 23 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-24 01:14:05,413 ] 24 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-24 01:14:25,445 ] 35 root - INFO - Smoting Completed Succesfully The Value counts are phishing
+1    58000
+0    58000
+Name: count, dtype: int64
+[ 2024-01-24 01:14:26,231 ] 39 root - INFO - Clean Data Saved to artifacts/cleaned_data/final_data.csv
+[ 2024-01-24 01:14:26,923 ] 44 root - INFO - Training Dataset Saved at artifacts/cleaned_data/train_data.csv
+[ 2024-01-24 01:14:27,154 ] 48 root - INFO - Testing Dataset Saved at artifacts/cleaned_data/test_data.csv
+[ 2024-01-24 01:14:27,166 ] 49 root - INFO - Completed Data Ingestion Method
+[ 2024-01-24 01:14:27,192 ] 26 root - INFO - Initiating Data Preprocessing
+[ 2024-01-24 01:14:27,841 ] 35 root - INFO - PCA Process Completed
+[ 2024-01-24 01:14:27,868 ] 42 root - INFO - Standardization Process Completed and Saved at artifacts/components/standard.joblib
+[ 2024-01-24 01:14:28,577 ] 88 root - INFO - Trainind Data
+[ 2024-01-24 01:14:28,577 ] 89 root - INFO - Accuracy of XGBClassifier using HyperOPT: 0.9077241379310345
+[ 2024-01-24 01:14:28,577 ] 90 root - INFO - Precision: 0.876759521494695
+[ 2024-01-24 01:14:28,577 ] 91 root - INFO - Recall: 0.9497023809523809
+[ 2024-01-24 01:14:28,577 ] 92 root - INFO - F2 Score: 0.934158732446382
+[ 2024-01-24 01:14:28,653 ] 96 root - INFO - Test Data Loaded Successfully
+[ 2024-01-24 01:14:28,655 ] 100 root - INFO - PCA Model loaded Successfully
+[ 2024-01-24 01:14:28,666 ] 104 root - INFO - Standardization Model loaded Successfully
+[ 2024-01-24 01:14:28,731 ] 113 root - INFO - Testing Data
+[ 2024-01-24 01:14:28,731 ] 114 root - INFO - Accuracy of XGBClassifier using HyperOPT: 0.9096206896551724
+[ 2024-01-24 01:14:28,731 ] 115 root - INFO - Precision: 0.8775576066610727
+[ 2024-01-24 01:14:28,732 ] 116 root - INFO - Recall: 0.9494413407821229
+[ 2024-01-24 01:14:28,732 ] 117 root - INFO - F2 Score: 0.9341376609456804
+[ 2024-01-24 01:14:29,787 ] 25 root - INFO - Accuracy: 0.8401739278710888
+[ 2024-01-24 01:14:29,875 ] 35 root - INFO - Precision: 0.8389738687061823
+[ 2024-01-24 01:14:29,876 ] 36 root - INFO - Recall: 0.8590400365451757
+[ 2024-01-24 01:14:29,876 ] 37 root - INFO - F2 Score: 0.8549503792995947

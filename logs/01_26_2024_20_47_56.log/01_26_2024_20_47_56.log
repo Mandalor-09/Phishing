@@ -1,0 +1,16 @@
+[ 2024-01-26 20:47:58,535 ] 23 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 20:47:58,535 ] 24 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 20:48:14,915 ] 35 root - INFO - Smoting Completed Succesfully The Value counts are phishing
+1    58000
+0    58000
+Name: count, dtype: int64
+[ 2024-01-26 20:48:15,809 ] 39 root - INFO - Clean Data Saved to artifacts/cleaned_data/final_data.csv
+[ 2024-01-26 20:48:16,549 ] 44 root - INFO - Training Dataset Saved at artifacts/cleaned_data/train_data.csv
+[ 2024-01-26 20:48:16,756 ] 48 root - INFO - Testing Dataset Saved at artifacts/cleaned_data/test_data.csv
+[ 2024-01-26 20:48:16,770 ] 49 root - INFO - Completed Data Ingestion Method
+[ 2024-01-26 20:48:16,794 ] 26 root - INFO - Initiating Data Preprocessing
+[ 2024-01-26 20:48:17,367 ] 35 root - INFO - PCA Process Completed
+[ 2024-01-26 20:48:17,388 ] 42 root - INFO - Standardization Process Completed and Saved at artifacts/components/standard.joblib
+[ 2024-01-26 20:48:17,522 ] 864 hyperopt.tpe - INFO - build_posterior_wrapper took 0.028193 seconds
+[ 2024-01-26 20:48:17,522 ] 900 hyperopt.tpe - INFO - TPE using 0 trials
+[ 2024-01-26 20:48:17,900 ] 180 hyperopt.fmin - ERROR - job exception: n_components=25 must be between 0 and min(n_samples, n_features)=5 with svd_solver='full'

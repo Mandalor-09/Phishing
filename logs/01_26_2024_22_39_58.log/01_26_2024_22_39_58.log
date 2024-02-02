@@ -1,0 +1,26 @@
+[ 2024-01-26 22:40:03,585 ] 24 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 22:40:03,586 ] 25 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 22:40:20,278 ] 36 root - INFO - Smoting Completed Succesfully The Value counts are phishing
+1    58000
+0    58000
+Name: count, dtype: int64
+[ 2024-01-26 22:40:21,129 ] 40 root - INFO - Clean Data Saved to artifacts/cleaned_data/final_data.csv
+[ 2024-01-26 22:40:21,876 ] 45 root - INFO - Training Dataset Saved at artifacts/cleaned_data/train_data.csv
+[ 2024-01-26 22:40:22,099 ] 49 root - INFO - Testing Dataset Saved at artifacts/cleaned_data/test_data.csv
+[ 2024-01-26 22:40:22,118 ] 50 root - INFO - Completed Data Ingestion Method
+[ 2024-01-26 22:40:22,135 ] 25 root - INFO - Initiating Data Preprocessing
+[ 2024-01-26 22:40:22,697 ] 34 root - INFO - PCA Process Completed
+[ 2024-01-26 22:40:22,720 ] 41 root - INFO - Standardization Process Completed and Saved at artifacts/components/standard.joblib
+[ 2024-01-26 22:40:29,988 ] 16 root - INFO - Trainind Data
+[ 2024-01-26 22:40:29,988 ] 17 root - INFO - Accuracy of XGBClassifier using HyperOPT: 0.9654827586206897
+[ 2024-01-26 22:40:29,988 ] 18 root - INFO - Precision: 0.9746551844850522
+[ 2024-01-26 22:40:29,988 ] 19 root - INFO - Recall: 0.9561126373626374
+[ 2024-01-26 22:40:29,988 ] 20 root - INFO - F2 Score: 0.9597644885070943
+[ 2024-01-26 22:40:30,076 ] 25 root - INFO - Test Data Loaded Successfully
+[ 2024-01-26 22:40:30,099 ] 29 root - INFO - PCA Model loaded Successfully
+[ 2024-01-26 22:40:30,119 ] 33 root - INFO - Standardization Model loaded Successfully
+[ 2024-01-26 22:40:30,503 ] 42 root - INFO - Testing Data
+[ 2024-01-26 22:40:30,503 ] 43 root - INFO - Accuracy of XGBClassifier using HyperOPT: 0.9368620689655173
+[ 2024-01-26 22:40:30,503 ] 44 root - INFO - Precision: 0.9317568969093549
+[ 2024-01-26 22:40:30,503 ] 45 root - INFO - Recall: 0.9410614525139664
+[ 2024-01-26 22:40:30,504 ] 46 root - INFO - F2 Score: 0.9391857045286648

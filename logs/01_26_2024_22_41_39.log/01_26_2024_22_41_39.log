@@ -1,0 +1,31 @@
+[ 2024-01-26 22:41:44,119 ] 24 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 22:41:44,120 ] 25 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 22:42:00,184 ] 36 root - INFO - Smoting Completed Succesfully The Value counts are phishing
+1    58000
+0    58000
+Name: count, dtype: int64
+[ 2024-01-26 22:42:01,059 ] 40 root - INFO - Clean Data Saved to artifacts/cleaned_data/final_data.csv
+[ 2024-01-26 22:42:01,791 ] 45 root - INFO - Training Dataset Saved at artifacts/cleaned_data/train_data.csv
+[ 2024-01-26 22:42:02,009 ] 49 root - INFO - Testing Dataset Saved at artifacts/cleaned_data/test_data.csv
+[ 2024-01-26 22:42:02,025 ] 50 root - INFO - Completed Data Ingestion Method
+[ 2024-01-26 22:42:02,048 ] 25 root - INFO - Initiating Data Preprocessing
+[ 2024-01-26 22:42:02,672 ] 34 root - INFO - PCA Process Completed
+[ 2024-01-26 22:42:02,694 ] 41 root - INFO - Standardization Process Completed and Saved at artifacts/components/standard.joblib
+[ 2024-01-26 22:42:09,715 ] 16 root - INFO - Trainind Data
+[ 2024-01-26 22:42:09,715 ] 17 root - INFO - Accuracy of XGBClassifier using HyperOPT: 0.9653448275862069
+[ 2024-01-26 22:42:09,715 ] 18 root - INFO - Precision: 0.9756919261633484
+[ 2024-01-26 22:42:09,716 ] 19 root - INFO - Recall: 0.9547619047619048
+[ 2024-01-26 22:42:09,716 ] 20 root - INFO - F2 Score: 0.9588757627734373
+[ 2024-01-26 22:42:09,802 ] 25 root - INFO - Test Data Loaded Successfully
+[ 2024-01-26 22:42:09,804 ] 29 root - INFO - PCA Model loaded Successfully
+[ 2024-01-26 22:42:09,815 ] 33 root - INFO - Standardization Model loaded Successfully
+[ 2024-01-26 22:42:10,111 ] 42 root - INFO - Testing Data
+[ 2024-01-26 22:42:10,111 ] 43 root - INFO - Accuracy of XGBClassifier using HyperOPT: 0.9354827586206896
+[ 2024-01-26 22:42:10,111 ] 44 root - INFO - Precision: 0.9316274876915609
+[ 2024-01-26 22:42:10,111 ] 45 root - INFO - Recall: 0.9381983240223464
+[ 2024-01-26 22:42:10,112 ] 46 root - INFO - F2 Score: 0.9368767520676141
+[ 2024-01-26 22:42:11,802 ] 68 root - INFO - Validate Dataset
+[ 2024-01-26 22:42:11,802 ] 69 root - INFO - Accuracy: 0.8132151078523319
+[ 2024-01-26 22:42:11,802 ] 70 root - INFO - Precision: 0.7706048863605134
+[ 2024-01-26 22:42:11,802 ] 71 root - INFO - Recall: 0.914934577609554
+[ 2024-01-26 22:42:11,803 ] 72 root - INFO - F2 Score: 0.8818996697593962

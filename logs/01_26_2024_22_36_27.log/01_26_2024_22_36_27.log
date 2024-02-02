@@ -1,0 +1,13 @@
+[ 2024-01-26 22:36:32,348 ] 24 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-01-26 22:36:32,348 ] 25 root - INFO - Initiating Data Ingestion Method
+[ 2024-01-26 22:36:48,084 ] 36 root - INFO - Smoting Completed Succesfully The Value counts are phishing
+1    58000
+0    58000
+Name: count, dtype: int64
+[ 2024-01-26 22:36:48,901 ] 40 root - INFO - Clean Data Saved to artifacts/cleaned_data/final_data.csv
+[ 2024-01-26 22:36:49,626 ] 45 root - INFO - Training Dataset Saved at artifacts/cleaned_data/train_data.csv
+[ 2024-01-26 22:36:49,831 ] 49 root - INFO - Testing Dataset Saved at artifacts/cleaned_data/test_data.csv
+[ 2024-01-26 22:36:49,850 ] 50 root - INFO - Completed Data Ingestion Method
+[ 2024-01-26 22:36:49,873 ] 25 root - INFO - Initiating Data Preprocessing
+[ 2024-01-26 22:36:50,388 ] 34 root - INFO - PCA Process Completed
+[ 2024-01-26 22:36:50,409 ] 41 root - INFO - Standardization Process Completed and Saved at artifacts/components/standard.joblib
