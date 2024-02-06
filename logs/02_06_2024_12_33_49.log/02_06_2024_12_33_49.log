@@ -1,0 +1,35 @@
+[ 2024-02-06 12:33:57,872 ] 24 root - INFO - Data Read Succesfully from data\dataset_full.csv
+[ 2024-02-06 12:33:57,873 ] 25 root - INFO - Initiating Data Ingestion Method
+[ 2024-02-06 12:34:00,376 ] 31 root - INFO - Shape of Phished : (22477, 41),Shape of Non Phished is : (6839, 41)
+[ 2024-02-06 12:34:00,434 ] 38 root - INFO - Resampleing Completed Succesfully The Value counts are phishing
+1    22477
+0     6839
+Name: count, dtype: int64
+[ 2024-02-06 12:34:01,020 ] 42 root - INFO - Clean Data Saved to artifacts/cleaned_data/final_data.csv
+[ 2024-02-06 12:34:01,575 ] 49 root - INFO - Training Dataset Saved at artifacts/cleaned_data/train_data.csv
+[ 2024-02-06 12:34:01,758 ] 53 root - INFO - Testing Dataset Saved at artifacts/cleaned_data/test_data.csv
+[ 2024-02-06 12:34:01,759 ] 54 root - INFO - Completed Data Ingestion Method
+[ 2024-02-06 12:34:01,768 ] 24 root - INFO - Initiating Data Preprocessing
+[ 2024-02-06 12:34:02,220 ] 33 root - INFO - PCA Process Completed
+[ 2024-02-06 12:34:02,237 ] 40 root - INFO - Standardization Process Completed and Saved at artifacts/components/standard.joblib
+[ 2024-02-06 12:34:02,237 ] 47 root - INFO - Initiated Model Training
+[ 2024-02-06 12:34:02,237 ] 49 root - INFO - Model Parameter Not found
+[ 2024-02-06 12:34:03,977 ] 16 root - INFO - Trainind Data
+[ 2024-02-06 12:34:03,977 ] 17 root - INFO - Accuracy of KNN using HyperOPT: 0.9754222222222222
+[ 2024-02-06 12:34:03,977 ] 18 root - INFO - Precision: 0.9930890438308198
+[ 2024-02-06 12:34:03,977 ] 19 root - INFO - Recall: 0.9575312444470769
+[ 2024-02-06 12:34:03,977 ] 20 root - INFO - F2 Score: 0.9644376301298764
+[ 2024-02-06 12:34:04,035 ] 25 root - INFO - Test Data Loaded Successfully
+[ 2024-02-06 12:34:04,037 ] 29 root - INFO - PCA Model loaded Successfully
+[ 2024-02-06 12:34:04,046 ] 33 root - INFO - Standardization Model loaded Successfully
+[ 2024-02-06 12:34:04,817 ] 42 root - INFO - Testing Data
+[ 2024-02-06 12:34:04,817 ] 43 root - INFO - Accuracy of KNN using HyperOPT: 0.9564444444444444
+[ 2024-02-06 12:34:04,817 ] 44 root - INFO - Precision: 0.9870796123883716
+[ 2024-02-06 12:34:04,817 ] 45 root - INFO - Recall: 0.9248709275413922
+[ 2024-02-06 12:34:04,817 ] 46 root - INFO - F2 Score: 0.9366773646821247
+[ 2024-02-06 12:34:07,434 ] 69 root - INFO - Test data Details : 
+ accuracy = 0.9228578736465172 , 
+ precision = 0.9664654833755937 ,
+ recall = 0.883022808105198 ,
+ f2_scoree = 0.8985384058596577
+[ 2024-02-06 12:34:07,438 ] 67 root - INFO - Completed Model Training
