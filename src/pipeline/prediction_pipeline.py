@@ -181,7 +181,7 @@ def prediction(extracted_features):
     pca_transformed_data = pca.transform(data)
 
     # Assuming you have a scaler object
-    scalar_path = os.path.abspath('artifacts\components\scalar.joblib')
+    scalar_path = os.path.abspath('artifacts\components\standard.joblib')
     scaler = joblib.load(scalar_path)
     scaled_data = scaler.transform(pca_transformed_data)
 
