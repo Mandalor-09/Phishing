@@ -18,6 +18,7 @@ The `train_pipeline.py` file is the main component of the training pipeline for 
 
    ```python
         pip install -r requirements.txt
+        pip install git+https://github.com/hyperopt/hyperopt-sklearn
    ```
 2. Run the following cammand fot Training
 
