@@ -1,3 +1,6 @@
+# Project is live at 
+https://phished-url-checker.onrender.com/
+
 # Phished Url Detector
 This project aims to build a machine model that can detect a given URL isished or not. project is divided into several modules, responsible for a specific in the pipeline.
 
