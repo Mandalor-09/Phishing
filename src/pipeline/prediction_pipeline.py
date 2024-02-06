@@ -176,18 +176,18 @@ def prediction(extracted_features):
     data = np.array(list(extracted_features.values())).reshape(1, -1)
 
     # Assuming you have a PCA object
-    pca_path = os.path.abspath('artifacts\components\pca.joblib')
+    pca_path = os.path.abspath('artifacts/components/pca.joblib')
     pca = joblib.load(pca_path)
     pca_transformed_data = pca.transform(data)
 
     # Assuming you have a scaler object
-    scalar_path = os.path.abspath('artifacts\components\standard.joblib')
+    scalar_path = os.path.abspath('artifacts/components/standard.joblib')
     scaler = joblib.load(scalar_path)
     scaled_data = scaler.transform(pca_transformed_data)
 
     # Use the trained XGBBoost for prediction
     #prediction = loaded_pipeline.predict(pca_transformed_data)
-    model_path = os.path.abspath('artifacts\model\model.joblib')
+    model_path = os.path.abspath('artifacts/model/model.joblib')
     tpot = joblib.load(model_path)
     prediction = tpot.predict(scaled_data)
 
