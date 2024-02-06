@@ -187,7 +187,7 @@ def prediction(extracted_features):
 
     # Use the trained XGBBoost for prediction
     #prediction = loaded_pipeline.predict(pca_transformed_data)
-    model_path = os.path.abspath('artifacts\components\model.joblib')
+    model_path = os.path.abspath('artifacts\model\model.joblib')
     tpot = joblib.load(model_path)
     prediction = tpot.predict(scaled_data)
 
