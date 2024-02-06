@@ -121,7 +121,7 @@ This method performs hyperparameter tuning using the Hyperopt library. It define
 
 ### `start_training(self, best_params)`
 
-This method trains the machine learning model using the best hyperparameters obtained from the hyperparameter tuning process. It creates an instance of the `XGBClassifier` class from the xgboost library with the best hyperparameters and fits it to the training data. The trained model is then saved to disk using the joblib library.
+This method trains the machine learning model using the best hyperparameters obtained from the hyperparameter tuning process. It creates an instance of the `KNNClassifier` class from the sklearn.meighbours library with the best hyperparameters and fits it to the training data. The trained model is then saved to disk using the joblib library.
 
 The method also evaluates the trained model on both the training and test datasets using functions from the `model_trainer_utils` module. Additionally, it performs model validation on a separate validation dataset using the `start_validating_data` function from the same module.
 
