@@ -1,11 +1,12 @@
 from setuptools import setup,find_packages
-
+import os 
 hyper_opt_pkg = "git+https://github.com/hyperopt/hyperopt-sklearn"
+os.system(f'pip install {hyper_opt_pkg}')
+
 def install_other_pakage():
     with open('requirements.txt','r') as f:
         lines = f.readlines()
         packages = [i.replace('/n','') for i in lines if i != '-e .' and not i.startswith('#')]
-        packages.append(hyper_opt_pkg)
         return packages
     
 setup(
