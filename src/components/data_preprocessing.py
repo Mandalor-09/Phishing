@@ -14,11 +14,10 @@ class Preprocessing_files_dir():
     pca_dir = 'artifacts/components/pca.joblib'
 
 class Preprocessing():
-    def __init__(self,cleaned_data,train_data,test_data,n_components):
+    def __init__(self,cleaned_data,train_data,test_data):
         self.cleaned_data = cleaned_data
         self.train_data = train_data
         self.test_data = test_data
-        self.n_components = n_components
         self.dir = Preprocessing_files_dir()
 
     def preprocessing(self):
@@ -27,7 +26,7 @@ class Preprocessing():
         X,y = data_split(self.train_data)
 
         # PCA of the features
-        pca = PCA(n_components=self.n_components)
+        pca = PCA(n_components=7)
         X = pca.fit_transform(X)
         with open(self.dir.pca_dir,'wb') as f:
             joblib.dump(pca,f)

@@ -67,7 +67,7 @@ The start_ingestion method performs the following steps:
 1. Reads the CSV file using pd.read_csv.
 2. Cleans the data using the DataCleaning class.
 3. Scales the features using the feature_scaling_df method.
-4. Splits the data into training and testing sets using               train_test_split.
+4. Splits the data into training and testing sets using train_test_split.
 5. Saves the training and testing sets as CSV files.
 6. Here's an example usage of the Ingestion class:
 
@@ -94,7 +94,7 @@ The Preprocessing class is responsible for preprocessing the data. It takes in f
 
 ```python
 Applies PCA to the features using 
-pca = PCA(n_components=self.n_components).
+pca = PCA(n_components=7).
 x_pca = pca.fit_transform(X,y)
 ```
 It returns X,y,pca_dir,standard_dir in form of dictionary
@@ -131,19 +131,19 @@ It returns model_dir Directory
 Note:
 - The provided best parameter gave following result:
     ### Train Data
-    1. Accuracy : 0.9651379310344828
-    2. Precision: 0.9762390158172232
+    1. Accuracy : 0.9751379310344828
+    2. Precision: 0.9962390158172232
     3. Recall: 0.9537774725274726
-    4. F2 Score: 0.958186710825916
+    4. F2 Score: 0.96186710825916
 
     ### Test Data
-    1. Accuracy : 0.9416666666666667
-    2. Precision: 0.9310344827586207
-    3. Recall: 0.9619047619047619
-    4. F2 Score: 0.9517241241241241
+    1. Accuracy : 0.9516666666666667
+    2. Precision: 0.9810344827586207
+    3. Recall: 0.9219047619047619
+    4. F2 Score: 0.9317241241241241
 
     ### Validate Dataset
-    1. Accuracy: 0.8451155256202575
-    2. Precision: 0.8619047619047619
+    1. Accuracy: 0.9251155256202575
+    2. Precision: 0.9619047619047619
     3. Recall: 0.8806773909354913
-    4. F2 Score: 0.88425176155492
+    4. F2 Score: 0.90425176155492

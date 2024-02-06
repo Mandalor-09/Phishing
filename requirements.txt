@@ -6,4 +6,5 @@ streamlit
 xgboost
 hyperopt
 imblearn
+git+https://github.com/hyperopt/hyperopt-sklearn
 -e .

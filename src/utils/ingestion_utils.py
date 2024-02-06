@@ -62,4 +62,5 @@ class DataCleaning:
         columns_to_drop = cols_to_drop_1 + cols_to_drop_2 + cols_to_drop_3
         columns_to_drop = set(columns_to_drop)
         self.df = self.df.drop(columns_to_drop,axis=1)
+        self.df = self.df.drop_duplicates()
         return self.df
